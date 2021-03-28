@@ -2,6 +2,12 @@
 
 A hillbilly stranded in the wilderness has to kill monsters and fight bosses in order to survive. With his only weapon being haystacks and beer will he manage to defeat all the enemies. 
 
+### Video / Trailer:
+https://user-images.githubusercontent.com/71775363/112751324-a426b580-8fcd-11eb-848b-72c82f84616e.mp4
+
+
+
+
 <br>
 
 #### Controls:
